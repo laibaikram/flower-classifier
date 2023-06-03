@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README guide for the flower classification project:
-
 # Flower Classification
 
 The Flower Classification project is a Python application that uses a pre-trained machine learning model to classify the flowers present in an image. It utilizes the TensorFlow library and the InceptionV3 model for image classification.
